@@ -1,4 +1,4 @@
-<img src="./assets/TravisCI-Mascot-1.png" width="25" height=""> [![Build Status](https://travis-ci.com/raspi-s-dojo/locked-record-indicator.svg?branch=master)](https://travis-ci.com/raspi-s-dojo/locked-record-indicator)
+<img src="./assets/TravisCI-Mascot-1.png" width="40"> [![Build Status](https://travis-ci.com/raspi-s-dojo/locked-record-indicator.svg?branch=master)](https://travis-ci.com/raspi-s-dojo/locked-record-indicator)
 
 # Locked Record Indicator LWC
 
