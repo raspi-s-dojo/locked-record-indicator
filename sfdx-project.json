@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "locked-record-indicator",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "46.0"
+}
